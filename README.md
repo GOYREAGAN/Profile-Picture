@@ -1,6 +1,8 @@
 # Profile Picture
 # Profile Page
 
+Visit this link to view it live: 
+
 This project is a simple HTML and CSS-based profile page showcasing a user's profile picture, name, hobbies, and social media links.
 
 ## Features
@@ -37,4 +39,4 @@ This project is a simple HTML and CSS-based profile page showcasing a user's pro
 
 ## Author
 
-Goy Reagan - An introverted nerd 😒🤓
+Goy Reagan 

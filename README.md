@@ -1,4 +1,4 @@
-# Profile Picture
+
 # Profile Page
 
 Visit this link to view it live: https://goyreagan.github.io/Profile-Picture/

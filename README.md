@@ -1,7 +1,7 @@
 # Profile Picture
 # Profile Page
 
-Visit this link to view it live: 
+Visit this link to view it live: https://goyreagan.github.io/Profile-Picture/
 
 This project is a simple HTML and CSS-based profile page showcasing a user's profile picture, name, hobbies, and social media links.
 
